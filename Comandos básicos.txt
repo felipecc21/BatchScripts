@@ -1,0 +1,29 @@
+Comandos básicos:
+
+*cls -- Limpa a tela
+*Echo -- Escreve algo na tela
+*vol -- Controla o volume do sistema
+*ver -- Mostra a versão do sistema operacional
+*clip -- Manipula a área de transferência
+*date -- Mostra/modifica a data
+*time -- Mostra/modifica o tempo
+*start -- Inicia outras tarefas
+*winver -- Mostra a versão do Windows
+*exit -- Fecha o prompt de comando
+
+Atalhos:
+
+Seta up e down -- Navega entre comandos já digitados
+ESC -- Apaga a linha de comando. 
+F7 -- Exibe o histórico de comandos
+Alt+F7 -- Limpa o histórico de comandos
+F8 -- Ativa a função de autocompletar
+F9 -- Seleciona o comando por números
+ALT+F10 -- Limpa as definições de macros. 
+
+Personalização:
+
+*Title -- Seta o nome da janela
+*color -- Escolhe a cor de background e principal. 
+*mode -- Escolhe o tamanho da janela. 
+*prompt -- Muda o texto do prompt
