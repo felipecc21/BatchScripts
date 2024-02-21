@@ -9,7 +9,7 @@ echo Propiedades do arquivo %~n1:
 echo Caminho %~f1
 echo Nome: %~n1
 echo extensao: %~x1
-echo Criacao: %~t1
+echo Ultima modificacao: %~t1
 echo Tamanho: %~z1
 echo Atributos: %~a1
 
