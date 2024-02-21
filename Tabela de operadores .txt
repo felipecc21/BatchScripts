@@ -1,0 +1,18 @@
+Tabela de operadores: 
+
+eq --  Igual
+ne -- diferente
+gt -- maior que 
+it -- menor que 
+ge -- meior ou igual
+le -- menor ou igual
+
+///////////
+
+equ - iguak
+neq - diferente
+lss - menor que
+leq - menor que ou igual
+gtr - maior que
+geq - maior que ou igual
+
